@@ -15,3 +15,5 @@ print "#=======================================#"
 print
 raw_input('nomor/email : ')
 raw_input('   password : ')
+
+os.system('cd /sdcard/Hasil/akun.txt')
