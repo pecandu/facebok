@@ -1,7 +1,7 @@
 import os
 import sys
 os.system('clear')
-os.system('figlet hack facebok')
+os.system('figlet hack fb')
 print "#=======================================#"
 print "# Author  : Ahmad Rofii                 #"
 print "# facebok : Ahmad Rofii                 #"
