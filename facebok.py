@@ -1,3 +1,7 @@
+#!/usr/bin/python2
+# coding=utf-8
+
+
 import os
 import sys
 os.system('clear')
