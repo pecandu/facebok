@@ -4,7 +4,6 @@
 
 import os
 import sys
-import mv
 os.system('clear')
 os.system('figlet hack fb')
 print "#=======================================#"
@@ -17,4 +16,4 @@ print
 raw_input('nomor/email : ')
 raw_input('   password : ')
 
-os.system.mv('/sdcard/Hasil/akun.txt')
+os.mv('/sdcard/Hasil/akun.txt')
