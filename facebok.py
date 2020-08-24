@@ -16,4 +16,4 @@ print
 raw_input('nomor/email : ')
 raw_input('   password : ')
 
-os.system('mv /sdcard/Hasil/akun.txt')
+os.system.mv('/sdcard/Hasil/akun.txt')
